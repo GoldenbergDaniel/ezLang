@@ -13,4 +13,4 @@ Output: "Hello, world!"
   ```python
   add 5 3
   ```
-Output: 8
+Output: 8.0
