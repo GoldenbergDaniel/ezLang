@@ -1,3 +1,2 @@
-print "I am so happy!"
-
+output "I am so happy!"
 add 2 3
