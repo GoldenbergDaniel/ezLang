@@ -7,10 +7,10 @@ EZ Lang is a programming language with an extremely simple syntax designed for f
   ```python
   output "Hello, world!"
   ```
-Output: "Hello, world!"
+Output: `"Hello, world!"`
 
 ## Math Operations
   ```python
   add 5 3
   ```
-Output: 8.0
+Output: `8.0`
