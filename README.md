@@ -1,5 +1,5 @@
-# EZ-Lang
-EZ Lang is a programming language with an extremely simple syntax designed for fast prototyping
+# ezLang
+ezLang is a programming language with an extremely simple syntax designed for fast prototyping
 
 # Syntax
 
