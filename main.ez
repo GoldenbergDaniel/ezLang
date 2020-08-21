@@ -1,2 +1,2 @@
-output "I am so happy!"
+output "Hello, world!"
 add 2 3
