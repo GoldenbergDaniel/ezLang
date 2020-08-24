@@ -14,3 +14,5 @@ Output: `"Hello, world!"`
   add 5 3
   ```
 Output: `8.0`
+
+[![Run on Repl.it](https://repl.it/badge/github/DanielGoldenberg0/ezLang)](https://repl.it/github/DanielGoldenberg0/ezLang)
