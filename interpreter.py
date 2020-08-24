@@ -8,6 +8,7 @@ with open(PATH, "r") as f:
     lines = [i for i in lines if i] 
 
 
+# Performs a math operation using [+, -, *, /]
 def operate_num(line: list) -> float:
     num_list = []
     for num in line[1:]:
@@ -15,6 +16,8 @@ def operate_num(line: list) -> float:
     return sum(num_list)
 
 
+# Scans the line for key words
+# This is where all the core feature go
 def scan_lines(lines: list):
     for line in lines:
         split_line = line.split()
