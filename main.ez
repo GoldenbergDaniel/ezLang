@@ -1,2 +1,1 @@
-output "I am so happy!"
-add 2 3
+operate 33 - 3
