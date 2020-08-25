@@ -13,7 +13,7 @@ Output: `"Hello, world!"`
   ```python
   operate 5 - 4
   ```
-Output: `1`
+Output: `1.0`
   ```python
   operate 3 ** 2
   ```
