@@ -1,1 +1,4 @@
-operate 33 - 3
+output "Hello, world!"
+operate 2 ** 3
+
+if 5 <= 7

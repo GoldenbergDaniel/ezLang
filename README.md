@@ -1,5 +1,5 @@
-# EZ-Lang
-EZ Lang is a programming language with an extremely simple syntax designed for fast prototyping
+# ezLang
+ezLang is a programming language with an extremely simple syntax designed for fast prototyping
 
 # Syntax
 
@@ -7,10 +7,22 @@ EZ Lang is a programming language with an extremely simple syntax designed for f
   ```python
   output "Hello, world!"
   ```
-Output: "Hello, world!"
+Output: `"Hello, world!"`
 
 ## Math Operations
   ```python
-  add 5 3
+  operate 5 - 4
   ```
-Output: 8
+Output: `1`
+  ```python
+  operate 3 ** 2
+  ```
+Output: `8.0`
+
+## If Statements
+  ```python
+  if 3 == 3
+  ```
+Output: `True`
+
+[![Run on Repl.it](https://repl.it/badge/github/DanielGoldenberg0/ezLang)](https://repl.it/github/DanielGoldenberg0/ezLang)
